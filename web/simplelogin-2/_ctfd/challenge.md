@@ -14,5 +14,5 @@ Good luck!
 
 Note: There are three flags that can be found at the above link. The flag you enter here starts with `FLAG{2`. The other two flags go in simplelogin-0 or simplelogin-1. 
 
-** THIS CHALLENGE IS WRAPPED IN FLAG{} **
+**Format**: THIS CHALLENGE IS WRAPPED IN `FLAG{}`
 

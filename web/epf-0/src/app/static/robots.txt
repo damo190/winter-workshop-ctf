@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Regular-penguin
+Disallow: /static/how-to-become-epik-penguin.txt 
+
+# Flag 3: COMPCLUB{r0bot!_penGuiN!_f0rCe?!}

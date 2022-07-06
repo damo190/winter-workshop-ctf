@@ -11,5 +11,5 @@ Houston, we've got... a disappearing black hole??
 Make sure that the FLAG{} contents are all in lowercase.
 
 
-** THIS CHALLENGE IS WRAPPED IN FLAG{} **
+**Format**: THIS CHALLENGE IS WRAPPED IN `FLAG{}`
 

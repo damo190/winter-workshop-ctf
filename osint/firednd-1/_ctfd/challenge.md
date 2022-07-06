@@ -13,4 +13,4 @@ Quite recently, I had to fire my frontend web developer, because they were doing
 Good luck!
 
 
-** THIS CHALLENGE IS WRAPPED IN FLAG{} **
+**Format**: THIS CHALLENGE IS WRAPPED IN `FLAG{}`

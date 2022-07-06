@@ -10,5 +10,5 @@ I made my own programming language called starlang! It's pretty self-explanatory
 
 (Make sure to open the file with a text editor so that you can read its contents.)
 
-** THIS CHALLENGE IS WRAPPED IN FLAG{} **
+**Format**: THIS CHALLENGE IS WRAPPED IN `FLAG{}`
 

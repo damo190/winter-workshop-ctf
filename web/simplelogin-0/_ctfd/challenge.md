@@ -16,5 +16,5 @@ Note: There are three flags that can be found at the above link. The flag you en
 
 Flag 0 has three parts to it - you'll have to find each part (labelled 1/3, 2/3 and 3/3) and join them together to get the full flag!
 
-** THIS CHALLENGE IS WRAPPED IN FLAG{} **
+**Format**: THIS CHALLENGE IS WRAPPED IN `FLAG{}`
 

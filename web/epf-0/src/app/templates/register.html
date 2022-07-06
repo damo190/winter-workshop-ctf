@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register | Epik Penguin Force</title>
+    <link rel="stylesheet" href="/static/style.css" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container"> 
+        <h1>Sign up to become a penguin!</h1>
+        {% if error %}
+            <div class="alert alert-danger" role="alert">
+                {{error}}
+            </div>
+        {% endif %}
+        <form align="center" action="{{url_for('register')}}" method="POST">
+            <label for="username">Username (max 9 characters): </label>
+            <input required type="text" name="username" maxlength="10"><br>
+            <label for="password">Password (min 8 characters): </label>
+            <input type="password" name="password" minlength="8"><br>
+            <input type="submit" value="Login">
+        </form>
+    </div>
+</body>
+</html>

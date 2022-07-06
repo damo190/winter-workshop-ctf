@@ -9,4 +9,4 @@ flag: "FLAG{byT3_s1zEd}"
 compclub
 
 
-** THIS CHALLENGE IS WRAPPED IN FLAG{} **
+**Format**: THIS CHALLENGE IS WRAPPED IN `FLAG{}`

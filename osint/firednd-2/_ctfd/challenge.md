@@ -11,4 +11,4 @@ No way, it's me, the CEO of [FireDnD](https://dnd.ctf.csesoc.app) again!
 My fired frontend developer hid a secret webpage on our website. I found out about this cool way to prevent search engines from finding the page, so I used that to prevent the page from showing up. I also replaced the contents of the page. Surely no-one can find it now, right?
 
 
-** THIS CHALLENGE IS WRAPPED IN FLAG{} **
+**Format**: THIS CHALLENGE IS WRAPPED IN `FLAG{}`

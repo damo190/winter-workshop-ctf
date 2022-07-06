@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard | Epik Penguin Force</title>
+    <link rel="stylesheet" href="/static/style.css" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container"> 
+        <h1>Hello {{username}}</h1>
+        <!--show alert-->
+        <div class="alert alert-primary" role="alert">
+            You are
+            {% if username | length > 9 %}
+                an <strong>epik penguin</strong>
+            {% else %}
+                a <strong>regular penguin</strong>
+            {% endif %}
+        </div>
+
+        <h3>
+            {% if username | length > 9 %}
+                Flag 4: COMPCLUB{h4cKeR_pEnGu1N_#aCk3R_p3NgUin!!}
+            {% else %}
+                There are no notifications for regular penguins. You need to be an epik penguin!
+            {% endif %}
+        </h3>
+
+        <form align="center" action="{{url_for('logout')}}" method="POST">
+            <input type="submit" value="Logout">
+        </form>
+    </div>
+    <script src="/static/hello.js" type="text/javascript"></script>
+</body>
+</html>

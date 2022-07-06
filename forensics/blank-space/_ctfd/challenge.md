@@ -8,5 +8,5 @@ flag: "FLAG{st4rBucKs_Lov3Rs}"
 
 i love to listen to Taylor Swift while stargazing. here's a picture I took, but my camera was broken
 
-** THIS CHALLENGE IS WRAPPED IN FLAG{} **
+**Format**: THIS CHALLENGE IS WRAPPED IN `FLAG{}`
 

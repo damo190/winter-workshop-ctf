@@ -16,5 +16,5 @@ Your answer should be a 24-hour time. For example, if your answer is 6:04PM, ent
 
 \* Nearest by straight-line distance. The location of a station can be determined by the position of the 'T' logo on Google Maps.
 
-** THIS CHALLENGE IS WRAPPED IN FLAG{} **
+**Format**: THIS CHALLENGE IS WRAPPED IN `FLAG{}`
 

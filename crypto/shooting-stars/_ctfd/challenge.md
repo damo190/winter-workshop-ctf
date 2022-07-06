@@ -10,4 +10,4 @@ found this cool book about shooting stars! i love shooting stars. the index fell
 
 Remember to wrap your answer with `FLAG{}`!
 
-** THIS CHALLENGE IS WRAPPED IN FLAG{} **
+**Format**: THIS CHALLENGE IS WRAPPED IN `FLAG{}`

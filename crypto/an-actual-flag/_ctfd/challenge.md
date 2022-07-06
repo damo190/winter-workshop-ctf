@@ -10,5 +10,5 @@ Was bored, decided to colonise a new planet. Wanted to incorporate the planet na
 
 Remember to wrap your answer with `FLAG{}`!
 
-** THIS CHALLENGE IS WRAPPED IN FLAG{} **
+**Format**: THIS CHALLENGE IS WRAPPED IN `FLAG{}`
 
