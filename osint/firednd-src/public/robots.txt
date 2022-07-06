@@ -1,0 +1,2 @@
+User-agent: Googlebot
+Disallow: /ry4ns-s3cret-p4ge.html
